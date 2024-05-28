@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miray\\Desktop\\GoruntuIsleme\\GoruntuIsleme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21FFB233-3B86-40A5-A923-0FF9DCEFD45C}|GoruntuIsleme\\GoruntuIsleme.csproj|C:\\Users\\miray\\Desktop\\GoruntuIsleme\\GoruntuIsleme\\goruntuisleme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21FFB233-3B86-40A5-A923-0FF9DCEFD45C}|GoruntuIsleme\\GoruntuIsleme.csproj|solutionrelative:goruntuisleme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FFB233-3B86-40A5-A923-0FF9DCEFD45C}|GoruntuIsleme\\GoruntuIsleme.csproj|C:\\Users\\miray\\Desktop\\GoruntuIsleme\\GoruntuIsleme\\goruntuisleme\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21FFB233-3B86-40A5-A923-0FF9DCEFD45C}|GoruntuIsleme\\GoruntuIsleme.csproj|solutionrelative:goruntuisleme\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FFB233-3B86-40A5-A923-0FF9DCEFD45C}|GoruntuIsleme\\GoruntuIsleme.csproj|c:\\users\\miray\\desktop\\goruntuisleme\\goruntuisleme\\goruntuisleme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FFB233-3B86-40A5-A923-0FF9DCEFD45C}|GoruntuIsleme\\GoruntuIsleme.csproj|solutionrelative:goruntuisleme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FFB233-3B86-40A5-A923-0FF9DCEFD45C}|GoruntuIsleme\\GoruntuIsleme.csproj|c:\\users\\miray\\desktop\\goruntuisleme\\goruntuisleme\\goruntuisleme\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21FFB233-3B86-40A5-A923-0FF9DCEFD45C}|GoruntuIsleme\\GoruntuIsleme.csproj|solutionrelative:goruntuisleme\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FFB233-3B86-40A5-A923-0FF9DCEFD45C}|GoruntuIsleme\\GoruntuIsleme.csproj|C:\\Users\\miray\\Desktop\\GoruntuIsleme\\GoruntuIsleme\\goruntuisleme\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21FFB233-3B86-40A5-A923-0FF9DCEFD45C}|GoruntuIsleme\\GoruntuIsleme.csproj|solutionrelative:goruntuisleme\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FFB233-3B86-40A5-A923-0FF9DCEFD45C}|GoruntuIsleme\\GoruntuIsleme.csproj|C:\\Users\\miray\\Desktop\\GoruntuIsleme\\GoruntuIsleme\\goruntuisleme\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21FFB233-3B86-40A5-A923-0FF9DCEFD45C}|GoruntuIsleme\\GoruntuIsleme.csproj|solutionrelative:goruntuisleme\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FFB233-3B86-40A5-A923-0FF9DCEFD45C}|GoruntuIsleme\\GoruntuIsleme.csproj|C:\\Users\\miray\\Desktop\\GoruntuIsleme\\GoruntuIsleme\\goruntuisleme\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21FFB233-3B86-40A5-A923-0FF9DCEFD45C}|GoruntuIsleme\\GoruntuIsleme.csproj|solutionrelative:goruntuisleme\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\miray\\Desktop\\GoruntuIsleme\\GoruntuIsleme\\GoruntuIsleme\\Form1.cs",
+              "RelativeDocumentMoniker": "GoruntuIsleme\\Form1.cs",
+              "ToolTip": "C:\\Users\\miray\\Desktop\\GoruntuIsleme\\GoruntuIsleme\\GoruntuIsleme\\Form1.cs",
+              "RelativeToolTip": "GoruntuIsleme\\Form1.cs",
+              "ViewState": "AQIAAF0DAAAAAAAAAAASwE8DAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:22:53.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\miray\\Desktop\\GoruntuIsleme\\GoruntuIsleme\\GoruntuIsleme\\Form2.cs",
+              "RelativeDocumentMoniker": "GoruntuIsleme\\Form2.cs",
+              "ToolTip": "C:\\Users\\miray\\Desktop\\GoruntuIsleme\\GoruntuIsleme\\GoruntuIsleme\\Form2.cs [Design]",
+              "RelativeToolTip": "GoruntuIsleme\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:54:49.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\miray\\Desktop\\GoruntuIsleme\\GoruntuIsleme\\GoruntuIsleme\\Form4.cs",
+              "RelativeDocumentMoniker": "GoruntuIsleme\\Form4.cs",
+              "ToolTip": "C:\\Users\\miray\\Desktop\\GoruntuIsleme\\GoruntuIsleme\\GoruntuIsleme\\Form4.cs [Design]",
+              "RelativeToolTip": "GoruntuIsleme\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:54:52.323Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\miray\\Desktop\\GoruntuIsleme\\GoruntuIsleme\\GoruntuIsleme\\Form1.cs",
+              "RelativeDocumentMoniker": "GoruntuIsleme\\Form1.cs",
+              "ToolTip": "C:\\Users\\miray\\Desktop\\GoruntuIsleme\\GoruntuIsleme\\GoruntuIsleme\\Form1.cs [Design]",
+              "RelativeToolTip": "GoruntuIsleme\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:37:36.019Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\miray\\Desktop\\GoruntuIsleme\\GoruntuIsleme\\GoruntuIsleme\\Form3.cs",
+              "RelativeDocumentMoniker": "GoruntuIsleme\\Form3.cs",
+              "ToolTip": "C:\\Users\\miray\\Desktop\\GoruntuIsleme\\GoruntuIsleme\\GoruntuIsleme\\Form3.cs [Design]",
+              "RelativeToolTip": "GoruntuIsleme\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:54:51.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\miray\\Desktop\\GoruntuIsleme\\GoruntuIsleme\\GoruntuIsleme\\Form5.cs",
+              "RelativeDocumentMoniker": "GoruntuIsleme\\Form5.cs",
+              "ToolTip": "C:\\Users\\miray\\Desktop\\GoruntuIsleme\\GoruntuIsleme\\GoruntuIsleme\\Form5.cs [Design]",
+              "RelativeToolTip": "GoruntuIsleme\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:37:36.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\miray\\Desktop\\GoruntuIsleme\\GoruntuIsleme\\GoruntuIsleme\\Form6.cs",
+              "RelativeDocumentMoniker": "GoruntuIsleme\\Form6.cs",
+              "ToolTip": "C:\\Users\\miray\\Desktop\\GoruntuIsleme\\GoruntuIsleme\\GoruntuIsleme\\Form6.cs [Design]",
+              "RelativeToolTip": "GoruntuIsleme\\Form6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:54:53.79Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 34,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
